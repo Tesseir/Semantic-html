@@ -156,3 +156,43 @@ You are required to submit the following for review:
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+-------------------------------------------------------------------
+
+# Horiseaon Webpage (Semantic HTML Assignment)
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+- What was your motivation?
+    My motivation was to begin to learn the basics of my future career! and also the prospects of a real job.
+
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+    Because doing so would teach me the basics of HTML, CSS, JS, and Git! building a steady base for more capabilities in the future.
+
+- What problem does it solve?
+
+    It solves issues regaurding the basics of Git, HTML, CSS, and JS by listing out code and explainging what they do.
+
+- What did you learn?
+    Basics of Git, HTML, CSS, JS.
+
+## Installation
+
+N/A
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
+
+
+## Credits
+
+N/A
+
+## License
